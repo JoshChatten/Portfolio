@@ -86,7 +86,7 @@ export default function Home() {
                     Texture Maps
                   </li>
                   <li>
-                    Normal Maps
+                    Normal (texture) Maps
                   </li>
                   <li>
                     Environment Maps
