@@ -30,9 +30,9 @@ const TAB_DATA = [
         id:"education",
         content: (
             <ul className='list-disc pl-6'>
-                <li>On track for a 1st class M-eng</li>
-                    in Computer Science from
-                    University of Bristol
+                <li>MEng in Computer Science
+                    with 1st class honours
+                    from University of Bristol</li>
             </ul>
         )
     },
@@ -81,7 +81,7 @@ const AboutSection = () => {
                     About Me
                 </h2>
                 <p className='text-base md:text-lg text-white mb-3'>
-                    I am a Computer Science student at University of Bristol
+                    I am a Computer Science Graduate from the University of Bristol
                     with a passion in Software Development and Game Design.
                     I have experience working with many languages such as
                     C, C++, Java, Python, Go as well as web development
